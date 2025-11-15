@@ -1,0 +1,203 @@
+[00:00:00.434] Server  LOG      ✓ Ready in 323ms
+[00:00:01.595] Server  ERROR    ⨯ ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/arronkianparejas/Documents/portfolio/src/app/globals.css:1:1: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/arronkianparejas/Documents/portfolio/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+[00:00:02.114] Browser ERROR   uncaughtError: Error: ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/arronkianparejas/Documents/portfolio/src/app/globals.css:1:1: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/arronkianparejas/Documents/portfolio/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+[00:00:02.484] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/arronkianparejas/Documents/portfolio/src/app/globals.css:1:1: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/arronkianparejas/Documents/portfolio/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:00:02.484] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/arronkianparejas/Documents/portfolio/src/app/globals.css:1:1: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/arronkianparejas/Documents/portfolio/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:105:5)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:00:20.485] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/arronkianparejas/Documents/portfolio/src/app/globals.css:1:1: Cannot apply unknown utility class `border-border`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/arronkianparejas/Documents/portfolio/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:00:28.483] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: /Users/arronkianparejas/Documents/portfolio/src/app/globals.css:1:1: Cannot apply unknown utility class `bg-background`
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Root.error (turbopack:///[project]/node_modules/postcss/lib/node.js:146:32)]
+    [at Object.Once (/Users/arronkianparejas/Documents/portfolio/node_modules/@tailwindcss/postcss/dist/index.js:10:6912)]
+    [at async LazyResult.runAsync (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:293:11)]
+    [at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34)]
+    [at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+[00:00:37.337] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:21.570] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:04.173] Server  WARN     ⚠ Cross origin request detected from 192.168.100.79 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:03:04.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:09.886] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:09.887] Browser LOG     FBNavMaxLongtaskMs:101
+[00:04:10.066] Browser LOG     FBNavResponseStart:1763216329482
+[00:04:10.066] Browser LOG     FBNavResponseEnd:1763216329488
+[00:04:10.066] Browser LOG     FBNavDomContentLoaded:1763216329653
+[00:04:10.066] Browser LOG     FBNavLoadEventEnd:1763216329924
+[00:04:10.066] Browser LOG     FBNavAmpDetect:false
+[00:04:10.066] Browser LOG     FBNavResponseStart:1763216329482
+[00:04:10.066] Browser LOG     FBNavResponseEnd:1763216329488
+[00:04:10.066] Browser LOG     FBNavDomContentLoaded:1763216329653
+[00:04:10.066] Browser LOG     FBNavLoadEventEnd:1763216329924
+[00:04:10.066] Browser LOG     FBNavAmpDetect:false
+[00:04:10.066] Browser LOG     text_and_dom: 2f9f795a8c77cece
+[00:04:10.066] Browser LOG     text_only: 0a0b72ce3082836c
+[00:04:10.066] Browser LOG     dom_only: a7bf795a8c757ec6
+[00:04:10.066] Browser LOG     text_and_dom: 2f9f795a8c77cece
+[00:04:10.066] Browser LOG     text_only: 0a0b72ce3082836c
+[00:04:10.066] Browser LOG     dom_only: a7bf795a8c757ec6
+[00:04:10.066] Browser LOG     text_and_dom: 2f9f795a8c77cece
+[00:04:10.066] Browser LOG     text_only: 0a0b72ce3082836c
+[00:04:10.066] Browser LOG     dom_only: a7bf795a8c757ec6
+[00:04:10.285] Browser LOG     FBNavResponseStart:1763216329482
+[00:04:10.285] Browser LOG     FBNavResponseEnd:1763216329488
+[00:04:10.285] Browser LOG     FBNavDomContentLoaded:1763216329653
+[00:04:10.285] Browser LOG     FBNavLoadEventEnd:1763216329924
+[00:04:10.285] Browser LOG     FBNavAmpDetect:false
+[00:04:10.285] Browser LOG     FBNavResponseStart:1763216329482
+[00:04:10.285] Browser LOG     FBNavResponseEnd:1763216329488
+[00:04:10.285] Browser LOG     FBNavDomContentLoaded:1763216329653
+[00:04:10.285] Browser LOG     FBNavLoadEventEnd:1763216329924
+[00:04:10.285] Browser LOG     FBNavAmpDetect:false
+[00:04:10.285] Browser LOG     FBNavResponseStart:1763216329482
+[00:04:10.285] Browser LOG     FBNavResponseEnd:1763216329488
+[00:04:10.285] Browser LOG     FBNavDomContentLoaded:1763216329653
+[00:04:10.285] Browser LOG     FBNavLoadEventEnd:1763216329924
+[00:04:10.285] Browser LOG     FBNavAmpDetect:false
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:10.285] Browser LOG     FBNavFirstContentfulPaint:1763216330171
+[00:04:11.208] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.209] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.209] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.209] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.209] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.209] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.209] Browser LOG     FBNavLargestContentfulPaint:1763216331103
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:04:11.397] Browser LOG     FBNavLargestContentfulPaint:1763216331307
+[00:05:28.362] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:28.532] Browser LOG     FBNavResponseStart:1763216408087
+[00:05:28.532] Browser LOG     FBNavResponseEnd:1763216408094
+[00:05:28.532] Browser LOG     FBNavDomContentLoaded:1763216408161
+[00:05:28.532] Browser LOG     FBNavLoadEventEnd:1763216408405
+[00:05:28.532] Browser LOG     FBNavAmpDetect:false
+[00:05:28.532] Browser LOG     FBNavResponseStart:1763216408087
+[00:05:28.532] Browser LOG     FBNavResponseEnd:1763216408094
+[00:05:28.532] Browser LOG     FBNavDomContentLoaded:1763216408161
+[00:05:28.532] Browser LOG     FBNavLoadEventEnd:1763216408405
+[00:05:28.532] Browser LOG     FBNavAmpDetect:false
+[00:05:28.532] Browser LOG     text_and_dom: 2f9f795a8c77cece
+[00:05:28.532] Browser LOG     text_only: 0a0b72ce30828b6c
+[00:05:28.532] Browser LOG     dom_only: a7bf795a8c757ec6
+[00:05:28.715] Browser LOG     FBNavResponseStart:1763216408087
+[00:05:28.715] Browser LOG     FBNavResponseEnd:1763216408094
+[00:05:28.715] Browser LOG     FBNavDomContentLoaded:1763216408161
+[00:05:28.715] Browser LOG     FBNavLoadEventEnd:1763216408405
+[00:05:28.715] Browser LOG     FBNavAmpDetect:false
+[00:05:28.715] Browser LOG     FBNavResponseStart:1763216408087
+[00:05:28.715] Browser LOG     FBNavResponseEnd:1763216408094
+[00:05:28.715] Browser LOG     FBNavDomContentLoaded:1763216408161
+[00:05:28.715] Browser LOG     FBNavLoadEventEnd:1763216408405
+[00:05:28.715] Browser LOG     FBNavAmpDetect:false
+[00:05:28.715] Browser LOG     FBNavResponseStart:1763216408087
+[00:05:28.715] Browser LOG     FBNavResponseEnd:1763216408094
+[00:05:28.715] Browser LOG     FBNavDomContentLoaded:1763216408161
+[00:05:28.715] Browser LOG     FBNavLoadEventEnd:1763216408405
+[00:05:28.715] Browser LOG     FBNavAmpDetect:false
+[00:05:28.715] Browser LOG     FBNavFirstContentfulPaint:1763216408471
+[00:05:28.715] Browser LOG     FBNavFirstContentfulPaint:1763216408471
+[00:05:28.715] Browser LOG     FBNavFirstContentfulPaint:1763216408471
+[00:05:28.715] Browser LOG     FBNavFirstContentfulPaint:1763216408471
+[00:05:28.715] Browser LOG     FBNavFirstContentfulPaint:1763216408471
+[00:05:28.715] Browser LOG     FBNavFirstContentfulPaint:1763216408471
+[00:05:29.638] Browser LOG     FBNavLargestContentfulPaint:1763216409531
+[00:05:29.638] Browser LOG     FBNavLargestContentfulPaint:1763216409531
+[00:05:29.638] Browser LOG     FBNavLargestContentfulPaint:1763216409531
+[00:05:29.638] Browser LOG     FBNavLargestContentfulPaint:1763216409531
+[00:05:29.638] Browser LOG     FBNavLargestContentfulPaint:1763216409531
+[00:05:29.638] Browser LOG     FBNavLargestContentfulPaint:1763216409531
+[00:05:29.825] Browser LOG     FBNavLargestContentfulPaint:1763216409731
+[00:05:29.825] Browser LOG     FBNavLargestContentfulPaint:1763216409731
+[00:05:29.825] Browser LOG     FBNavLargestContentfulPaint:1763216409731
+[00:05:29.826] Browser LOG     FBNavLargestContentfulPaint:1763216409731
+[00:05:29.826] Browser LOG     FBNavLargestContentfulPaint:1763216409731
+[00:05:29.826] Browser LOG     FBNavLargestContentfulPaint:1763216409731
+[00:05:49.677] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
