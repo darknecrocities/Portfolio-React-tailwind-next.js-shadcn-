@@ -163,10 +163,10 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Arron Kian Parejas**
-- 📧 Email: arronkianparejas@email.com
-- 💼 LinkedIn: [linkedin.com/in/arronkianparejas](https://linkedin.com/in/arronkianparejas)
-- 🐙 GitHub: [github.com/arronkianparejas](https://github.com/arronkianparejas)
-- 📍 Location: San Francisco, CA
+- 📧 Email: parejasarronkian@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/arronkianparejas](https://www.linkedin.com/in/arron-parejas-6711b6289/)
+- 🐙 GitHub: [github.com/arronkianparejas](https://github.com/darknecrocities)
+- 📍 Location: Philippines
 
 ---
 
